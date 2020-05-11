@@ -2,4 +2,3 @@
 
 rm -rf dist/*
 babel -d dist src
-cp package.json dist
