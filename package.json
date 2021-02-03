@@ -1,6 +1,6 @@
 {
   "name": "@makerdao/dai-plugin-walletconnect",
-  "version": "0.0.10",
+  "version": "0.0.20",
   "files": [
     "dist/**/*"
   ],
